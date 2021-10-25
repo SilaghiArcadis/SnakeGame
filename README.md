@@ -1,2 +1,2 @@
 # SnakeGame
-Developped this easy game in Java Swing
+Developed this easy game in Java Swing
